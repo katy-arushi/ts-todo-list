@@ -2,6 +2,8 @@
 
 This project is a simple To Do List app to practice using TypeScript. 
 
+![screenshot](https://github.com/katy-arushi/ts-todo-list/blob/main/public/homepage.png?raw=true)
+
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 ## Available Scripts
 
